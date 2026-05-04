@@ -9,7 +9,7 @@ Diabetes is a serious health condition that requires early detection to prevent 
 3. To evaluate model performance using standard metrics
 4. To identify the most important features contributing to diabetes prediction
 
-## Model framework
+## Model framework:
 - Data Collection: Patient medical records
 - Pre-Processing: Data cleaning and normalization
 - EDA: Statistical analysis and visualization
@@ -19,7 +19,7 @@ Diabetes is a serious health condition that requires early detection to prevent 
 - Prediction: Diabetic / Non-Diabetic classification
 - Results: Model comparison and insights
 
-## Result
+## Result:
 - Multiple machine learning models were trained and evaluated for diabetes prediction using clinical features such as glucose level, BMI, age, insulin, and blood pressure.
 - Data preprocessing, feature scaling, and train–test splitting improved model stability and performance.
 - Among all evaluated models, ensemble and tree-based classifiers outperformed traditional algorithms.
